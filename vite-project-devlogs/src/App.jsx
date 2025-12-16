@@ -32,7 +32,8 @@ function App() {
 
           <section>
             <h2>About Me</h2>
-            <p>Hello, I am in Cyber Security.</p>
+            <p>Hello, I am going to become a Cyber Security analyst. Right now I am a software developer with a strong foundation in customer service, digital tools, and coding. Skilled in troubleshooting, collaboration, and delivering user-focused solutions. Recent i.c.stars tech training program graduate with hands-on experience using React, SQL, and Power BI to develop an application for UAL’s customers. Previous technical support experience at Central States Funds.
+</p>
           </section>
         </aside>
 
