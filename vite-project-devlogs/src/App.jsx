@@ -53,7 +53,7 @@ function App() {
               <div className="log-card">
                 <span className="log-date">11-3-2025</span>
                 <div className="log-entry-number">Entry Number: 2</div>
-                <p>This is my second entry in the dev log. I hope this is done right and I don't break my website.</p>
+                <p>This is my second entry in the dev log. I hope I did this log card component right and I don't break my website.</p>
               </div>
             </logCard>
             <logCard date="2025-06-11" entryNumber="3">
@@ -68,6 +68,13 @@ function App() {
                 <span className="log-date">11-25-2025</span>
                 <div className="log-entry-number">Entry Number: 4</div>
                 <p>I have added prisma to my project and set up a local SQL Server database to store my dev log entries. This will help me manage and retrieve my logs more efficiently.</p>
+              </div>
+            </logCard>
+            <logCard date="2025-16-12" entryNumber="5">
+              <div className="log-card">
+                <span className="log-date">12-16-2025</span>
+                <div className="log-entry-number">Entry Number: 5</div>
+                <p>Today is the day of our tech expo. I hope everyone has a great day and enjoys the event.</p>
               </div>
             </logCard>
           </div>
