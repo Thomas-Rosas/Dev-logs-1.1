@@ -46,7 +46,7 @@ function App() {
             <h3>Entry Number: 1</h3>
             <br />
             <h3>Thomas Rosas</h3>
-            <p>Hey all, I am Alexander Hamilton. Just you wait</p>
+            <p>Hey all, I will become a cybersecurity pentester</p>
             <br />
             <logCard date="2025-03-11" entryNumber="2">
               <div className="log-card">
